@@ -34,7 +34,7 @@ export default function Home() {
           <Link href="https://www.instagram.com/serdest.onat/?hl=tr">
             <button class="btn four">Instagram</button>
           </Link>
-          <Link href="https://https://twitter.com/SerdestOn">
+          <Link href="https://twitter.com/SerdestOn">
             <button class="btn four">Twitter</button>
           </Link>
         </div>
